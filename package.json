@@ -1,0 +1,8 @@
+{
+  "name": "ts-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andersonluizneto/ts-auth.git",
+  "author": "Anderson Luiz Neto <anderson.neto26@gmail.com>",
+  "license": "MIT"
+}
