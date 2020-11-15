@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "https://github.com/andersonluizneto/ts-auth.git",
   "author": "Anderson Luiz Neto <anderson.neto26@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx nodemon --exec ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  }
 }
